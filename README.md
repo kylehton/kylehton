@@ -1,4 +1,4 @@
-# 💫 About Me:
+#  About Me:
 hi! i'm kyle ton, a second-year computer science student planning to enter the field of <br>software engineering! I am learning full-stack software development and engineering,<br>and hope to expand towards ai and machine learning engineering in the near future.<br>this is my github account with the repositories to all of my personal projects. i hope you<br>enjoy looking through them!<br><br>if you'd like, please visit my official portfolio at [www.kylehton.com]
 
 
