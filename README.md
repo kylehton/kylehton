@@ -1,5 +1,5 @@
 #  About Me:
-hi! i'm kyle ton, a second-year math-cs student at ucsd planning to enter the field of software engineering! I am learning full-stack software development and engineering, and hope to expand towards ai and machine learning engineering in the near future. this is my github account with the repositories to all of my personal projects. i hope you enjoy looking through them!<br><br>if you'd like, please visit my official portfolio at [www.kylehton.com]!
+hi! i'm kyle ton, an upcoming third-year math-cs student at ucsd planning to enter the field of software engineering! I am learning full-stack software development and engineering, and hope to expand towards ai and machine learning engineering in the near future. this is my github account with the repositories to all of my personal projects. i hope you enjoy looking through them!<br><br>if you'd like, please visit my official portfolio at [www.kylehton.com]!
 
 
 ## 🌐 Socials:
