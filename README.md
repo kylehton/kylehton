@@ -31,9 +31,6 @@ hi! i'm kyle ton, an upcoming third-year math-cs student at ucsd planning to ent
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kylehton&theme=dark&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kylehton&theme=dark&hide_border=false&layout=compact)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kylehton&theme=dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kylehton&theme=dark&utcOffset=-8)
-
 ---
 
 [![](https://visitcount.itsvg.in/api?id=kylehton&icon=0&color=11)](https://visitcount.itsvg.in)
